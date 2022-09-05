@@ -5,8 +5,3 @@
 #
 #
 # print(correct('L0ND0N'))
-
-# 2
-def sum_dig_pow(a, b):
-    res = []
-
